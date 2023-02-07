@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "name": "Wash Room",
+    "rent": "300",
+    "description": "Lorem ipsum dolor sit amet, consectetu radipisi cing elitBeatae autem aperiam nequ quaera molestias voluptatibus harum ametipsa.",
+    "img": "https://i.ibb.co/WDkdxn2/Hotel2.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Hotel View",
+    "rent": "100",
+    "description": "Lorem ipsum dolor sit amet, consectetu radipisi cing elitBeatae autem aperiam nequ quaera molestias voluptatibus harum ametipsa.",
+    "img": "  https://i.ibb.co/xgFxxfK/hotel1.jpg"
+  },
+  {
+    "id": 3,
+    "name": "SPA Center",
+    "rent": "150",
+    "description": "Lorem ipsum dolor sit amet, consectetu radipisi cing elitBeatae autem aperiam nequ quaera molestias voluptatibus harum ametipsa.",
+    "img": "https://i.ibb.co/ZcpQJ1C/Hotel3.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Normal Bed",
+    "rent": "180",
+    "description": "Lorem ipsum dolor sit amet, consectetu radipisi cing elitBeatae autem aperiam nequ quaera molestias voluptatibus harum ametipsa.",
+    "img": "    https://i.ibb.co/1ddNhTg/Hotel4.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Wating Room",
+    "rent": "100",
+    "description": "Lorem ipsum dolor sit amet, consectetu radipisi cing elitBeatae autem aperiam nequ quaera molestias voluptatibus harum ametipsa.",
+    "img": "    https://i.ibb.co/PCMt7j1/Hotel5.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Muster Bed",
+    "rent": "300",
+    "description": "Lorem ipsum dolor sit amet, consectetu radipisi cing elitBeatae autem aperiam nequ quaera molestias voluptatibus harum ametipsa",
+    "img": " https://i.ibb.co/nnPg8nL/Hotel6.jpg"
+  }
+]
